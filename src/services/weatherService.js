@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "ade49c10efd0e306a1df07cf6c5bb463"; 
+// const API_KEY = "you key here "; 
 // const BASE_URL = "https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY&units=metric";
 const BASE_URL = `https://api.openweathermap.org/data/2.5/weather`;
 
